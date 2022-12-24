@@ -35,3 +35,12 @@ header ul li a:hover {
     background: linear-gradient(145deg, #e2e8ec, #fff);
     box-shadow: 4px 4px 8px #cbcbcb, 4px -4px 8px #fff;
 }
+
+.home-btn:hover {
+  background: #47B5FF;
+  color: white;
+}
+
+.open {
+    display: none;
+}
